@@ -10,15 +10,15 @@ Pour ce travail, nous avons utilisé la section __Wiki__ de GitHub et
 créé plusieurs pages principalement consacrées à l’entreprise Apple.
 Nos sources proviennent de wikipedia.
 
-Pour la création de ce wiki, nous avons suivi le plus d'étapes possibles
+Pour la création de ce wiki, nous avons suivi le plus grand nombre d’étapes possible
 - [x] Créer le wiki
-- [x] Créer une page Wiki_mikos qui présente un sommaire
+- [x] Créer une page Wiki_mikos présentant un sommaire
 - [x] créer une section Apple et faire son contenu
 - [x] créer une section Face-Id et faire son contenu
 - [x] créer une section Iphone et faire son contenu
 - [ ] créer encore d'autres section pour développer le wiki (+ tard)
 
-C'est un sujet qui nous tenait a coeur car Apple est une entreprise mondialement connue.
+C’est un sujet qui nous tient à cœur, car Apple est une entreprise mondialement connue.
 
 ___
 
