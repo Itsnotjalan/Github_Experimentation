@@ -12,7 +12,7 @@ ses qualitées :
 
 ___
   
-![alt text](https://github.com/Itsnotjalan/Github_Experimentation/blob/main/Photo_clement.png?raw=trueLogo "Alexandre Marquier")
+![alt text](https://github.com/Itsnotjalan/Github_Experimentation/blob/main/Photo_clement.png?raw=trueLogo "Clement Torrano")
 ### Clement Torrano
 ###### Jeune étudiant de 19 ans, Alexandre Marquier travaille à l'IUT d'informatique site Gaston Berger. 
 ###### Sa formation dure 3 ans et apres il fera peut-être un master mais ne sait pas encore exactement où. 
@@ -22,5 +22,6 @@ ses qualitées :
 * volontaire
 * s'adapte facilement
 
+___
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/80b4ed50-03c4-44a7-bb1f-d85f5d046651" />
+![alt text](https://github.com/user-attachments/assets/80b4ed50-03c4-44a7-bb1f-d85f5d046651 "Jalan Rigaud")
