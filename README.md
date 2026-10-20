@@ -24,4 +24,4 @@ ses qualitées :
 
 ___
 
-![alt text](https://github.com/user-attachments/assets/80b4ed50-03c4-44a7-bb1f-d85f5d046651 "Jalan Rigaud")
+![alt text](ttps://github.com/Itsnotjalan/Github_Experimentation/blob/main/jalan_rigaud.png?raw=trueLogo "Jalan Rigaud")
