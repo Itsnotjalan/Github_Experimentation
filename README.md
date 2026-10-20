@@ -4,7 +4,7 @@
 
 ci dessous se trouve notre première page wikipedia sur github : 
 
-[PAGE WIKIPEDIA](https://github.com/Itsnotjalan/Github_Experimentation/wiki)
+[PAGE WIKIPEDIA](https://github.com/Itsnotjalan/Github_Experimentation/wiki/Wiki_Micros))
 
 ___
 
