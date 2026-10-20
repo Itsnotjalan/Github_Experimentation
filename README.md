@@ -10,7 +10,7 @@ ses qualitées :
 * volontaire
 * s'adapte facilement
 
-__
+___
   
 ![alt text](https://github.com/Itsnotjalan/Github_Experimentation/blob/main/Photo_clement.png?raw=trueLogo "Alexandre Marquier")
 ### Clement Torrano
