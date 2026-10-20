@@ -2,9 +2,20 @@
 ## TD2 : Langages de balisage léger V 1.3.0
 
 
-ci-dessous se trouve notre première page wikipedia sur github : 
+ci-dessous se trouve notre première page wiki sur github : 
 
-[PAGE WIKIPEDIA](https://github.com/Itsnotjalan/Github_Experimentation/wiki/Wiki_Mikr%C3%B2s#sommaire)
+[PAGE WIKI](https://github.com/Itsnotjalan/Github_Experimentation/wiki/Wiki_Mikr%C3%B2s#sommaire)
+
+Pour ce travail nous nous sommes mis dans la section Wiki et nous avons 
+créer plusieurs sections principalement basée sur l'entreprise apple.
+Nos sources viennent de wikipedia.
+pour la création de ce wiki, nous avons suivis le plus d'étapes possibles
+- [x] Créer le wiki
+- [x] Créer une page Wiki_mikos qui présente un sommaire
+- [x] créer une section Apple et faire son contenue
+- [x] créer une section Face-Id et faire son contenue
+- [x] créer une section Iphone et faire son contenue
+- [ ] créer encore d'autres section pour développer le wiki (+ tard)
 
 ___
 
