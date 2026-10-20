@@ -6,9 +6,9 @@ Ci-dessous se trouve notre travail réalisé sur une page __wiki__ GitHub :
 
 __[PAGE WIKI](https://github.com/Itsnotjalan/Github_Experimentation/wiki/Wiki_Mikr%C3%B2s#sommaire)__
 
-Pour ce travail, nous avons utilisé la section __Wiki__ de GitHub et nous avons 
-créé plusieurs sections principalement basée sur l'entreprise apple.
-Nos sources viennent de wikipedia.
+Pour ce travail, nous avons utilisé la section __Wiki__ de GitHub et 
+créé plusieurs pages principalement consacrées à l’entreprise Apple.
+Nos sources proviennent de wikipedia.
 
 Pour la création de ce wiki, nous avons suivi le plus d'étapes possibles
 - [x] Créer le wiki
