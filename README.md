@@ -26,7 +26,7 @@ ___
 
 ![Jalan Rigaud](https://github.com/Itsnotjalan/Github_Experimentation/blob/main/Jalan_Rigaud.png?raw=trueLogo "Jalan Rigaud")
 ### Jalan Rigaud
-###### Jeune étudiant de 19 ans, Alexandre Marquier travaille à l'IUT d'informatique site Gaston Berger. 
+###### Jeune étudiant de 19 ans, Jalan Rigaud travaille à l'IUT d'informatique site Gaston Berger. 
 ###### Sa formation dure 3 ans et apres il fera peut-être un master mais ne sait pas encore exactement où. 
 mes qualitées : 
 * entreprenant
