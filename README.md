@@ -2,7 +2,7 @@
 ## TD2 : Langages de balisage léger V 1.3.0
 
 
-ci dessous se trouve notre première page wikipedia sur github : 
+ci-dessous se trouve notre première page wikipedia sur github : 
 
 [PAGE WIKIPEDIA](https://github.com/Itsnotjalan/Github_Experimentation/wiki/Wiki_Micros)
 
