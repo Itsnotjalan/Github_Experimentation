@@ -10,3 +10,12 @@ ses qualitées :
 * volontaire
 * s'adapte facilement
   
+![alt text](https://github.com/Itsnotjalan/Github_Experimentation/blob/main/Photo_clement.png?raw=trueLogo "Alexandre Marquier")
+### Alexandre Marquier
+###### Jeune étudiant de 19 ans, Alexandre Marquier travaille à l'IUT d'informatique site Gaston Berger. 
+###### Sa formation dure 3 ans et apres il fera peut-être un master mais ne sait pas encore exactement où. 
+ses qualitées : 
+* entreprenant
+* pleins d'idée
+* volontaire
+* s'adapte facilement
