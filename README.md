@@ -1,6 +1,6 @@
 # Github_Experimentation
 ## TD2 : Langages de balisage léger V 1.3.0
-![### Alexandre Marquier](https://github.com/Itsnotjalan/Github_Experimentation/blob/main/Alexandre_Marquier.png?raw=trueLogo "Alexandre Marquier")
+![### Alexandre Marquier](https://github.com/Itsnotjalan/Github_Experimentation/blob/main/Alexandre_Marquer.png?raw=trueLogo "Alexandre Marquier")
 ### Alexandre Marquier
 ###### Jeune étudiant de 19 ans, Alexandre Marquier travaille à l'IUT d'informatique site Gaston Berger. 
 ###### Sa formation dure 3 ans et apres il fera peut-être un master mais ne sait pas encore exactement où. 
