@@ -23,3 +23,4 @@ ses qualitées :
 * s'adapte facilement
 
 
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/80b4ed50-03c4-44a7-bb1f-d85f5d046651" />
