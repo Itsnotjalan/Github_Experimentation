@@ -1,7 +1,7 @@
 # Github_Experimentation
 ## TD2 : Langages de balisage léger V 1.3.0
 
-[WIKIPEDIA](https://github.com/Itsnotjalan/Github_Experimentation.wiki.git)
+[WIKIPEDIA](https://github.com/Itsnotjalan/Github_Experimentation/wiki)
 
 ![Alexandre Marquier](https://github.com/Itsnotjalan/Github_Experimentation/blob/main/Alexandre_Marquier.png?raw=trueLogo "Alexandre Marquier")
 ### Alexandre Marquier
