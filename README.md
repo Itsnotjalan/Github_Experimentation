@@ -4,7 +4,9 @@
 ci dessous se trouve notre première page wikipedia sur github : 
 [PAGE WIKIPEDIA](https://github.com/Itsnotjalan/Github_Experimentation/wiki)
 
-###crédit : 
+___
+
+### crédit : 
 ![Alexandre Marquier](https://github.com/Itsnotjalan/Github_Experimentation/blob/main/Alexandre_Marquier.png?raw=trueLogo "Alexandre Marquier")
 #### Alexandre Marquier
 ###### Jeune étudiant de 19 ans, Alexandre Marquier travaille à l'IUT d'informatique site Gaston Berger. 
