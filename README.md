@@ -22,7 +22,7 @@ C’est un sujet qui nous tient à cœur, car Apple est une entreprise mondialem
 
 ___
 
-### crédit : 
+### Crédit : 
 ![Alexandre Marquier](https://github.com/Itsnotjalan/Github_Experimentation/blob/main/Alexandre_Marquier.png?raw=trueLogo "Alexandre Marquier")
 #### Alexandre Marquier
 ###### Jeune étudiant de 19 ans, Alexandre Marquier travaille à l'IUT d'informatique site Gaston Berger. 
