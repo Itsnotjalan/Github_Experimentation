@@ -37,10 +37,10 @@ ___
   
 ![Clement Torrano](https://github.com/Itsnotjalan/Github_Experimentation/blob/main/Photo_clement.png?raw=trueLogo "Clement Torrano")
 #### Clement Torrano
-###### Jeune étudiant de 18 ans, Clément Torrano travaille à l'IUT d'informatique site Gaston Berger. 
-###### Sa formation dure 3 ans et apres il fera peut-être un master dans le jeu-vidéo mais ne sait pas encore exactement où. 
+###### Jeune étudiant de 18 ans, Clément Torrano travaille au BUT informatique au site Gaston Berger. 
+###### Sa formation dure 3 ans et apres il aimerait faire un master dans le jeux vidéo mais ne sait pas encore exactement où. 
 mes qualitées : 
-* entreprenant
+* investit
 * pleins d'idée
 * volontaire
 * s'adapte facilement
